@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ciucacosmin109/ciucacosmin109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![ciucacosmin109 github stats](https://github-readme-stats.vercel.app/api?username=ciucacosmin109&show_icons=true)
