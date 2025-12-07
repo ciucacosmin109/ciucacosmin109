@@ -5,7 +5,7 @@
 <a href = "https://ro.linkedin.com/in/marius-cosmin-ciuca-313660199">
     <img src = "LinkedIn.png" alt="Linkedin" width = "auto" height="50px" align="center" title="LinkedIn"/>
 </a>
-<a href = "mailto:ciucacosmin109@gmail.com/">
+<a href = "mailto:ciucacosmin109@gmail.com">
     <img src = "Gmail.png" alt="Email" width = "auto" height="50px" align="center"title="Email" />
 </a>
 
